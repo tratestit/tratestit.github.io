@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tratestit.github.io/sitemap.html.gz
+Sitemap: https://tratestit.github.io/app/sitemap.html.gz
+Sitemap: https://tratestit.github.io/assets/sitemap.html.gz
+Sitemap: https://tratestit.github.io/css/sitemap.html.gz
+Sitemap: https://tratestit.github.io/includes/sitemap.html.gz
+Sitemap: https://tratestit.github.io/item/sitemap.html.gz
+Sitemap: https://tratestit.github.io/src/sitemap.html.gz
